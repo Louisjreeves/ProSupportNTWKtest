@@ -7,8 +7,8 @@ Thank You Jim Gandy for your help and support.  This is a test of a future netwo
 Keep every bit of code you come across and use everything you know and use every bit of code you have to find examples of what works. 
 
 ## ProSupportNTWKtest
-![ProSupportNTWKtest].(https://github.com/Louisjreeves/ProSupportNTWKtest/blob/main/proSupportNTWKtest.jpg![image](https://user-images.githubusercontent.com/79279019/137944318-65d47fe5-4c74-4837-841a-d8597b5185a1.png)
-)
+![ProSupportNTWKtest].[image](https://user-images.githubusercontent.com/79279019/137944318-65d47fe5-4c74-4837-841a-d8597b5185a1.png)
+
 
 ![alt text](readme/ProSupportNTWKtest.png)
   This tool uses all the files to run a few different types of network pings, latency or bandwidth tests with Test-Netconnection, PSPING and IPV4 Network scan - See: https://github.com/BornToBeRoot
