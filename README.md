@@ -22,5 +22,5 @@ I AM STILL TESTING AND SOME THINGS ARE NOT 100% working yet-. soon soon
    Download the zip file and extract and run the PS file inside, after navigating to the folder where the script is located in PS. 
    I am working on automating this, so the link below does not yet work :
 ```Powershell
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;Invoke-Expression('$module="TestHVAAllocation";$repo="PowershellScripts"'+(new-object System.net.webclient).DownloadString('https://raw.githubusercontent.com/Louisjreeves/ProSupportNTWKtest/main/ProSupportNTWKTtest.zip'));Invoke-ProSupportNTWKTtest
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;Invoke-Expression('$module="TestHVAAllocation";$repo="PowershellScripts"'+(new-object System.net.webclient).DownloadString('https://raw.githubusercontent.com/Louisjreeves/ProSupportNTWKtest/main/ExpandAnd Run.ps1')); Invoke-ProSupportNTWKTtest
 ```
