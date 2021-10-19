@@ -6,6 +6,8 @@ Thank You Jim Gandy for your help and support.  This is a test of a future netwo
 
 Keep every bit of code you come across and use everything you know and use every bit of code you have to find examples of what works. 
 
+I AM STILL TESTING AND SOME THINGS ARE NOT 100% working yet-. soon soon 
+
 ## ProSupportNTWKtest
 ![image](https://user-images.githubusercontent.com/79279019/137944318-65d47fe5-4c74-4837-841a-d8597b5185a1.jpg)
 
