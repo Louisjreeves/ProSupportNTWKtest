@@ -20,7 +20,7 @@ try
     Expand-Archive -Path $mydownloads\ProSupportNTWKTtest.zip -DestinationPath $mydownloads\ProSupportNTWKtest -Force
  
  
- $activedirectory= "C:\Users\louis_reeves\Downloads\ProSupportNTWKtest\ProSupportNTWKTtest"
+ $activedirectory= "C:\Users\*\Downloads\ProSupportNTWKtest\ProSupportNTWKTtest"
  cd c:\
  set-location $activedirectory
   .\ProSupportNTWKTest.ps1
